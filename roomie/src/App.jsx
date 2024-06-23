@@ -2,7 +2,6 @@ import Signup from './Signup.jsx'
 import {BrowserRouter, Routes, Route} from 'react-router-dom'
 import Login from './Login.jsx'
 import Home from './Home.jsx'
-
 function App() {
 
   return (

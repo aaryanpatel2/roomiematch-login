@@ -4,6 +4,18 @@ const RoomieSchema = new mongoose.Schema({
     name: String,
     email: String,
     password: String,
+    imageURL: String,
+    age: String,
+    gender: String,
+    budget: String,
+    pet: String,
+    clean: String,
+    social: String,
+    alcnsmoke: String,
+    sleep: String,
+    interest: String,
+    match: String
+
 
 
 })
